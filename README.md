@@ -6,9 +6,6 @@ Here’s a revised version of your project description with more realistic and r
 
 # 🌱 **Real-Time Tomato Disease Care Assistant** 🍅
 
-### **Team Members**
-- **Janani A** - 21MIS0068
-- **Ruthika J** - 21MIS0359
 
 ## **Project Overview**
 
